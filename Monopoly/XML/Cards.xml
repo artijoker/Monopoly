@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cards>
+  <Teleports>
+    <Teleport>
+      <Text>У вашего хомячка закончился корм. Отправляйтесь в Зоорынок</Text>
+      <NewPosition>5</NewPosition>
+    </Teleport>
+    <Teleport>
+      <Text>Вы решили наказать шантажиста, заказав позорящую его рекламу в Moogle. Отправляйтесь в Moogle, чтобы урегулировать все вопросы</Text>
+      <NewPosition>23</NewPosition>
+    </Teleport>
+    <Teleport>
+      <Text>У вас сломался компьютер. Вы отправились в С-технику, чтобы купить новый</Text>
+      <NewPosition>6</NewPosition>
+    </Teleport>
+    <Teleport>
+      <Text>Вас арестовали отправляйтесь в тюрьму</Text>
+      <NewPosition>7</NewPosition>
+    </Teleport>
+    <Teleport>
+      <Text>Отправляйтесь на старт</Text>
+      <NewPosition>0</NewPosition>
+    </Teleport>
+  </Teleports>
+  <Losses>
+    <Loss>
+      <Text>Оплата страховки</Text>
+      <SumLoss>200</SumLoss>
+    </Loss>
+    <Loss>
+      <Text>У вас была найдена налоговая задолжность</Text>
+      <SumLoss>150</SumLoss>
+    </Loss>
+    <Loss>
+      <Text>Мусор на улице</Text>
+      <SumLoss>80</SumLoss>
+    </Loss>
+    <Loss>
+      <Text>Вы забыли заплатить за такси</Text>
+      <SumLoss>100</SumLoss>
+    </Loss>
+    <Loss>
+      <Text>Счета одной из ваших фирм были заморожены</Text>
+      <SumLoss>500</SumLoss>
+    </Loss>
+    <Loss>
+      <Text>Вследствии спланированной кибер атаки на одну из ваших фирм были украденны важные данные</Text>
+      <SumLoss>800</SumLoss>
+    </Loss>
+  </Losses>
+  <Profits>
+    <Profit>
+      <Text>Банковская ошибка в вашу пользу</Text>
+      <SumProfit>200</SumProfit>
+    </Profit>
+    <Profit>
+      <Text>Вы нашли клад</Text>
+      <SumProfit>300</SumProfit>
+    </Profit>
+    <Profit>
+      <Text>Вы получили наследство</Text>
+      <SumProfit>500</SumProfit>
+    </Profit>
+    <Profit>
+      <Text>Вы заключили очень выгодную сделку</Text>
+      <SumProfit>800</SumProfit>
+    </Profit>
+    <Profit>
+      <Text>Вы выгодно продали облигации</Text>
+      <SumProfit>150</SumProfit>
+    </Profit>
+  </Profits>
+  
+</Cards>

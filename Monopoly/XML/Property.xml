@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Property>
+  <Streets>
+    <Street>
+      <Name>Вещевой рынок</Name>
+      <Color>14</Color>
+      <Price>50</Price>
+      <Rent>20</Rent>
+      <Pledge>20</Pledge>
+      <Buyout>25</Buyout>
+      <IncreaseRent>5</IncreaseRent>
+      <HousePurchase>10</HousePurchase>
+      <HouseSale>5</HouseSale>
+    </Street>
+    <Street>
+      <Name>Барахолка</Name>
+      <Color>14</Color>
+      <Price>55</Price>
+      <Rent>25</Rent>
+      <Pledge>25</Pledge>
+      <Buyout>30</Buyout>
+      <IncreaseRent>8</IncreaseRent>
+      <HousePurchase>12</HousePurchase>
+      <HouseSale>6</HouseSale>
+    </Street>
+    <Street>
+      <Name>Зоорынок</Name>
+      <Color>14</Color>
+      <Price>50</Price>
+      <Rent>20</Rent>
+      <Pledge>15</Pledge>
+      <Buyout>20</Buyout>
+      <IncreaseRent>5</IncreaseRent>
+      <HousePurchase>8</HousePurchase>
+      <HouseSale>4</HouseSale>
+    </Street>
+    
+    
+    <Street>
+      <Name>С-техника</Name>
+      <Color>1</Color>
+      <Price>80</Price>
+      <Rent>40</Rent>
+      <Pledge>60</Pledge>
+      <Buyout>65</Buyout>
+      <IncreaseRent>20</IncreaseRent>
+      <HousePurchase>15</HousePurchase>
+      <HouseSale>10</HouseSale>
+    </Street>
+    <Street>
+      <Name>Ремонт техники</Name>
+      <Color>1</Color>
+      <Price>45</Price>
+      <Rent>20</Rent>
+      <Pledge>15</Pledge>
+      <Buyout>20</Buyout>
+      <IncreaseRent>5</IncreaseRent>
+      <HousePurchase>8</HousePurchase>
+      <HouseSale>4</HouseSale>
+    </Street>
+    <Street>
+      <Name>Телефон.ру</Name>
+      <Color>1</Color>
+      <Price>45</Price>
+      <Rent>20</Rent>
+      <Pledge>15</Pledge>
+      <Buyout>20</Buyout>
+      <IncreaseRent>5</IncreaseRent>
+      <HousePurchase>8</HousePurchase>
+      <HouseSale>4</HouseSale>
+    </Street>
+    
+
+    <Street>
+      <Name>Завод АвтоТАЗ</Name>
+      <Color>6</Color>
+      <Price>110</Price>
+      <Rent>55</Rent>
+      <Pledge>70</Pledge>
+      <Buyout>80</Buyout>
+      <IncreaseRent>50</IncreaseRent>
+      <HousePurchase>45</HousePurchase>
+      <HouseSale>15</HouseSale>
+    </Street>
+    <Street>
+      <Name>Завод Рольцваген</Name>
+      <Color>6</Color>
+      <Price>120</Price>
+      <Rent>60</Rent>
+      <Pledge>80</Pledge>
+      <Buyout>95</Buyout>
+      <IncreaseRent>55</IncreaseRent>
+      <HousePurchase>50</HousePurchase>
+      <HouseSale>25</HouseSale>
+    </Street>
+    <Street>
+      <Name>Завод Троёда</Name>
+      <Color>6</Color>
+      <Price>115</Price>
+      <Rent>60</Rent>
+      <Pledge>75</Pledge>
+      <Buyout>85</Buyout>
+      <IncreaseRent>50</IncreaseRent>
+      <HousePurchase>45</HousePurchase>
+      <HouseSale>30</HouseSale>
+    </Street>
+    
+
+    <Street>
+      <Name>Девелопер Самострой</Name>
+      <Color>2</Color>
+      <Price>160</Price>
+      <Rent>90</Rent>
+      <Pledge>120</Pledge>
+      <Buyout>135</Buyout>
+      <IncreaseRent>60</IncreaseRent>
+      <HousePurchase>60</HousePurchase>
+      <HouseSale>35</HouseSale>
+    </Street>
+    <Street>
+      <Name>Группа компаний ВТЫК</Name>
+      <Color>2</Color>
+      <Price>180</Price>
+      <Rent>110</Rent>
+      <Pledge>140</Pledge>
+      <Buyout>150</Buyout>
+      <IncreaseRent>70</IncreaseRent>
+      <HousePurchase>65</HousePurchase>
+      <HouseSale>40</HouseSale>
+    </Street>
+    <Street>
+      <Name>Росгострой</Name>
+      <Color>2</Color>
+      <Price>170</Price>
+      <Rent>100</Rent>
+      <Pledge>130</Pledge>
+      <Buyout>150</Buyout>
+      <IncreaseRent>65</IncreaseRent>
+      <HousePurchase>60</HousePurchase>
+      <HouseSale>30</HouseSale>
+    </Street>
+    
+
+    <Street>
+      <Name>Поисковик Moogle</Name>
+      <Color>4</Color>
+      <Price>350</Price>
+      <Rent>200</Rent>
+      <Pledge>200</Pledge>
+      <Buyout>300</Buyout>
+      <IncreaseRent>100</IncreaseRent>
+      <HousePurchase>100</HousePurchase>
+      <HouseSale>80</HouseSale>
+    </Street>
+    <Street>
+      <Name>Поисковик Тындекс</Name>
+      <Color>4</Color>
+      <Price>300</Price>
+      <Rent>180</Rent>
+      <Pledge>150</Pledge>
+      <Buyout>200</Buyout>
+      <IncreaseRent>80</IncreaseRent>
+      <HousePurchase>80</HousePurchase>
+      <HouseSale>70</HouseSale>
+    </Street>
+    <Street>
+      <Name>Чумазон</Name>
+      <Color>4</Color>
+      <Price>350</Price>
+      <Rent>180</Rent>
+      <Pledge>200</Pledge>
+      <Buyout>250</Buyout>
+      <IncreaseRent>120</IncreaseRent>
+      <HousePurchase>90</HousePurchase>
+      <HouseSale>80</HouseSale>
+    </Street>
+  </Streets>
+  
+  <Railways>
+    <Railway>
+      <Name>Северная железная дорога</Name>
+      <Color>8</Color>
+      <Price>200</Price>
+      <Rent>60</Rent>
+      <Pledge>90</Pledge>
+      <Buyout>150</Buyout>
+      <IncreaseRent>80</IncreaseRent>
+    </Railway>
+    <Railway>
+      <Name>Восточная железная дорога</Name>
+      <Color>8</Color>
+      <Price>200</Price>
+      <Rent>60</Rent>
+      <Pledge>90</Pledge>
+      <Buyout>150</Buyout>
+      <IncreaseRent>80</IncreaseRent>
+    </Railway>
+    <Railway>
+      <Name>Западная железная дорога</Name>
+      <Color>8</Color>
+      <Price>200</Price>
+      <Rent>60</Rent>
+      <Pledge>90</Pledge>
+      <Buyout>150</Buyout>
+      <IncreaseRent>80</IncreaseRent>
+    </Railway>
+    <Railway>
+      <Name>Южная железная дорога</Name>
+      <Color>8</Color>
+      <Price>200</Price>
+      <Rent>60</Rent>
+      <Pledge>90</Pledge>
+      <Buyout>150</Buyout>
+      <IncreaseRent>80</IncreaseRent>
+    </Railway>
+  </Railways>
+</Property> 
